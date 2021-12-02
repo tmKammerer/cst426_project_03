@@ -19,7 +19,7 @@ made enemies
 
 
 
-changes needed:
+Changes needed:
 
 get the markov chain working
 
