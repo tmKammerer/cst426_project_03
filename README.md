@@ -9,13 +9,20 @@ made platform types and item types, as well as enemy
 
 made a light source
 
+crouch
+
+change character gravity
+
+got one gun ready
+
+made enemies
+
+
 
 changes needed:
 
 get the markov chain working
 
-change character gravity
+get guns to work and switch
 
-get guns to work
-
-crouch
+make enemies shoot
