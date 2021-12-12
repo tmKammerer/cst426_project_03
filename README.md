@@ -1,28 +1,4 @@
 # CST426_Project_3
 
 
-Changes so far:
-
-made base game off an example
-
-made platform types and item types, as well as enemy
-
-made a light source
-
-crouch
-
-change character gravity
-
-got one gun ready
-
-made enemies
-
-
-
-Changes needed:
-
-get the markov chain working
-
-get guns to work and switch
-
-make enemies shoot
+The name of the game is Slugfest, you walk on only one level and shoot some enemies. The enemies have a random chance of dropping something like a health pickup, or ammo, or even a bomb that hurts you. Make your way to the goal and you get some cake!
